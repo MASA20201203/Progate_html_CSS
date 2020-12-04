@@ -176,3 +176,17 @@ header {
   position: relative;
   top: 7px;
 }
+
+footer {
+  border-top: 1px solid #eee;
+  padding: 30px 0;
+}
+
+footer img {
+  width: 124px;
+}
+
+footer p {
+  font-size: 12px;
+  color: #b3aeb5;
+}
