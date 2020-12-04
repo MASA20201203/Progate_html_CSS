@@ -1,0 +1,105 @@
+.header {
+  height: 90px;
+  background-color: #26d0c9;
+  color: #fff;
+}
+
+.header p {
+  font-size: 36px;
+  float: left;
+  margin: 20px 40px;
+}
+
+.header li {
+  list-style: none;
+  float: left;
+  margin: 33px 20px;
+}
+
+.top {
+  margin-top: 100px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+
+.top h1 {
+  font-size: 140px;
+}
+
+.top span {
+  color: #ff4a4a;
+}
+
+.top h2 {
+  font-size: 60px;
+}
+
+.contents {
+  height: 500px;
+  margin: 100px 80px;
+}
+
+.contents_title {
+  font-size: 28px;
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom: 15px;
+  margin-bottom: 50px;
+}
+
+.lesson {
+  float: left;
+}
+
+.lesson img {
+  margin-right: 40px;
+}
+
+.lesson p {
+  font-size: 24px;
+  margin-top: 30px;
+}
+
+.contact {
+  margin: 100px 80px 0 80px;
+}
+
+.contact_title {
+  font-size: 28px;
+  border-bottom: 2px solid #dee7ec;
+  padding-bottom: 15px;
+  margin-bottom: 50px
+}
+
+.contact input, textarea {
+  width: 400px;
+  padding: 20px;
+  margin: 10px 0 30px 0;
+  border: 1px solid #dee7ec;
+}
+
+.contact_submit {
+  background-color: #dee7ec;
+  color: #889eab;
+  font-size: 18px;
+}
+
+.footer {
+  background-color: #2f5167;
+  padding: 40px;
+  height: 120px;
+  color: #fff;
+}
+
+.footer p {
+  font-size: 32px;
+  float: left;
+}
+
+.footer ul {
+  list-style: none;
+  float: right;
+}
+
+.footer li {
+  padding-bottom: 20px;
+}
