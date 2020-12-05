@@ -12,6 +12,9 @@
   .lesson {
     margin-bottom: 50px;
   }
+  footer {
+    text-align: center;
+  }
 }
 
 /* モバイル向けレイアウト */
@@ -34,10 +37,11 @@
   .top-wrapper p {
     font-size: 14px;
   }
-  .top-wrapper .btn {
+  .btn {
     width: 100%;
   }
   .facebook {
     margin-bottom: 10px;
   }
+
 }
